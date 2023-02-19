@@ -1,10 +1,5 @@
 ONNX Models
 ===============
 
-Ready-to-use ONNX Machine Learning models.
+Ready-to-use ONNX Models.
 
-
-Usage
------
-
-Use the link to download the ONNX models from the releases section.
